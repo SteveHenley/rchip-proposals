@@ -15,12 +15,6 @@ Breaking change release is a release that is not backwards compatible. Should th
 
 All bonded node validators must participate in a breaking change release implementation to migrate from the old network to the new network at the block height announced by the Tech Governance team (with inputs from dev team).
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
 1. Breaking change release can be submitted by
    1. RChain core developers??
    1. Proposers??
